@@ -1,0 +1,61 @@
+body {
+  background-image: url(coffee.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.buttons {
+  padding: 15px;
+}
+p {
+  font-family: 'Shadows Into Light', cursive;
+  color: #92817a;
+  font-size: 40px;
+}
+h1 {
+  color: #d1cebd;
+  font-family: 'Rock Salt', cursive;
+  font-size: 75px;
+  position: relative;
+  left: 450px;
+}
+
+
+
+.btn {
+   background: #B02D02;
+   background-image: -webkit-linear-gradient(top, #B02D02, #BBC2CE);
+   background-image: -moz-linear-gradient(top, #B02D02, #BBC2CE);
+   background-image: -ms-linear-gradient(top, #B02D02, #BBC2CE);
+   background-image: -o-linear-gradient(top, #B02D02, #BBC2CE);
+   background-image: -webkit-gradient(to bottom, #B02D02, #BBC2CE);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #000000;
+   font-family: Arial;
+   font-size: 23px;
+   font-weight: 100;
+   padding: 15px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #000000 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   position: relative;
+   left: 860px;
+   padding: 10px;
+   margin: auto 3px auto auto;
+}
+
+.btn:hover {
+   background: #1E62D0;
+   border: solid #FFFFFF 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
